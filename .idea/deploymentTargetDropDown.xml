@@ -7,12 +7,12 @@
         <deviceKey>
           <Key>
             <type value="VIRTUAL_DEVICE_PATH" />
-            <value value="C:\Users\marco\.android\avd\Motorola_2000.avd" />
+            <value value="C:\Users\marco\.android\avd\Galaxy2022.avd" />
           </Key>
         </deviceKey>
       </Target>
     </targetSelectedWithDropDown>
-    <timeTargetWasSelectedWithDropDown value="2022-11-11T01:38:29.889420Z" />
+    <timeTargetWasSelectedWithDropDown value="2022-11-11T23:31:46.954857700Z" />
     <targetsSelectedWithDialog>
       <Target>
         <type value="QUICK_BOOT_TARGET" />
