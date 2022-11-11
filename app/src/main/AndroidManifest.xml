@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.br.loja_virtual">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Ecommerce">
+        <activity
+            android:name="com.br.loja_virtual.activity.usuario.UsuarioPagamentoPedidoActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.br.loja_virtual.activity.app.DetalhesPedidoActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.br.loja_virtual.activity.usuario.UsuarioPerfilActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.br.loja_virtual.activity.usuario.UsuarioSelecionaPagamentoActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.br.loja_virtual.activity.loja.LojaFormPagamentoActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.br.loja_virtual.activity.loja.LojaPagamentosActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.br.loja_virtual.activity.usuario.UsuarioSelecionaEnderecoActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.br.loja_virtual.activity.usuario.UsuarioResumoPedidoActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.br.loja_virtual.activity.usuario.UsuarioFormEnderecoActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.br.loja_virtual.activity.usuario.UsuarioEnderecoActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.br.loja_virtual.activity.usuario.DetalhesProdutoActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.br.loja_virtual.activity.loja.LojaConfigActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.br.loja_virtual.activity.loja.LojaFormProdutoActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.br.loja_virtual.activity.loja.MainActivityEmpresa"
+            android:exported="true" />
+        <activity
+            android:name="com.br.loja_virtual.autenticacao.CadastroActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.br.loja_virtual.autenticacao.RecuperaContaActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.br.loja_virtual.autenticacao.LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.br.loja_virtual.activity.app.SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.br.loja_virtual.activity.usuario.MainActivityUsuario"
+            android:exported="true" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.br.loja_virtual.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+    </application>
+
+</manifest>
