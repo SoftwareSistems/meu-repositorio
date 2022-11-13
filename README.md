@@ -18,72 +18,69 @@ Não possue.
 
 ## Layout
 
-Home
-
+#### - Home
 ![home](https://github.com/SoftwareSistems/meu-repositorio/blob/main/home.PNG)
 
-
-Carrinho
+#### - Carrinho
 ![carrinho](https://github.com/SoftwareSistems/meu-repositorio/blob/main/carrinho_produto.PNG)
 
-Favoritos
+#### - Favoritos
 ![favoritos](https://github.com/SoftwareSistems/meu-repositorio/blob/main/favoritos.PNG)
 
-Perfil
+#### - Perfil
 ![perfil](https://github.com/SoftwareSistems/meu-repositorio/blob/main/perfil.PNG)
 
-Pedidos
+#### - Pedidos
 ![pedidos](https://github.com/SoftwareSistems/meu-repositorio/blob/main/.PNG)
 
+#### - Perfil
 ![perfil](https://github.com/SoftwareSistems/meu-repositorio/blob/main/perfil.PNG)
 
-Seleção de pagamento
-![forma_pagamentol]https://github.com/SoftwareSistems/meu-repositorio/blob/main/forma_pagamento.PNG
+#### - Seleção de pagamento
+![pagamento](https://github.com/SoftwareSistems/meu-repositorio/blob/main/foma_pagamento.PNG)
 
-Informações do cartão
+#### - Informações do cartão
 ![info_cartão](https://github.com/SoftwareSistems/meu-repositorio/blob/main/info_cartão.PNG)
 
-Seleção de pagamento
+#### - Seleção do cartão
 ![cartao](https://github.com/SoftwareSistems/meu-repositorio/blob/main/cartão.PNG)
 
-Infofmação do nome
+#### - Infofmação do nome
 ![nome](https://github.com/SoftwareSistems/meu-repositorio/blob/main/nome.PNG)
 
-Informação do documento
+#### - Informação do documento
 ![cpf](https://github.com/SoftwareSistems/meu-repositorio/blob/main/cpf.PNG)
 
-Informação da validade
+#### - Informação da validade
 ![validade](https://github.com/SoftwareSistems/meu-repositorio/blob/main/validade.PNG)
 
-Informação do código de segurança
+#### - Informação do código de segurança
 ![codigo_seguranca](https://github.com/SoftwareSistems/meu-repositorio/blob/main/codigo_seguranca.PNG)
 
-Selecionar parcelas
+#### - Selecionar parcelas
 ![parcelas](https://github.com/SoftwareSistems/meu-repositorio/blob/main/parcelas.PNG)
 
-Resumo do pedido
-![resumo_pedido](https://github.com/SoftwareSistems/meu-repositorio/blob/main/resmuo_pedido.PNG)
+#### - Resumo do pedido
+![resumo_pedido](https://github.com/SoftwareSistems/meu-repositorio/blob/main/resumo_pedido.PNG)
 
-Aprovação do pagamento
+#### - Aprovação do pagamento
 ![aprovado](https://github.com/SoftwareSistems/meu-repositorio/blob/main/aprovado.PNG)
-
--
--
--
--
--
--
 
 # Tecnologias utilizadas
 ## Back end / Front end
+- Java 100%
 
--
--
--
--
--
+# Bibliotecas utilizadas
 
-![login]()
+- io.github.ParkSangGwon:tedpermission-normal:3.2.3
+- com.github.bumptech.glide:glide:4.12.0
+- com.github.santalu:maskara:1.0.0
+- com.github.jd-alexander:LikeButton:0.2.3
+- com.github.smarteist:autoimageslider:1.4.0
+- com.squareup.retrofit2:retrofit:2.9.0
+- com.squareup.retrofit2:converter-gson:2.9.0
+- com.mercadopago.android.px:checkout:4.20.0
+
 
 
 
