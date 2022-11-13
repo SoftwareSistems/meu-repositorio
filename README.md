@@ -16,6 +16,29 @@ https://youtu.be/vq6UCB4Hgzw
 
 Não possue.
 
+## Layout
+
+-
+-
+-
+-
+-
+-
+
+# Tecnologias utilizadas
+## Back end / Front end
+
+-
+-
+-
+-
+-
+
+![login]()
+
+
+
+
 Caro visitante esta página está em construção, aguarde.....
 
 
