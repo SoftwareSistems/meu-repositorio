@@ -18,6 +18,55 @@ Não possue.
 
 ## Layout
 
+Home
+
+![home](https://github.com/SoftwareSistems/meu-repositorio/blob/main/home.PNG)
+
+
+Carrinho
+![carrinho]https://github.com/SoftwareSistems/meu-repositorio/blob/main/carrinho_produto.PNG
+
+Favoritos
+![favoritos]https://github.com/SoftwareSistems/meu-repositorio/blob/main/favoritos.PNG
+
+Perfil
+![perfil]https://github.com/SoftwareSistems/meu-repositorio/blob/main/perfil.PNG
+
+Pedidos
+![pedidos]https://github.com/SoftwareSistems/meu-repositorio/blob/main/.PNG
+
+![perfil]https://github.com/SoftwareSistems/meu-repositorio/blob/main/perfil.PNG
+
+Seleção de pagamento
+![forma_pagamentol]https://github.com/SoftwareSistems/meu-repositorio/blob/main/forma_pagamento.PNG
+
+Informações do cartão
+![info_cartão]https://github.com/SoftwareSistems/meu-repositorio/blob/main/info_cartão.PNG
+
+Seleção de pagamento
+![cartao]https://github.com/SoftwareSistems/meu-repositorio/blob/main/cartão.PNG
+
+Infofmação do nome
+![nome]https://github.com/SoftwareSistems/meu-repositorio/blob/main/nome.PNG
+
+Informação do documento
+![cpf]https://github.com/SoftwareSistems/meu-repositorio/blob/main/cpf.PNG
+
+Informação da validade
+![validade]https://github.com/SoftwareSistems/meu-repositorio/blob/main/validade.PNG
+
+Informação do código de segurança
+![codigo_seguranca]https://github.com/SoftwareSistems/meu-repositorio/blob/main/codigo_seguranca.PNG
+
+Selecionar parcelas
+![parcelas]https://github.com/SoftwareSistems/meu-repositorio/blob/main/parcelas.PNG
+
+Resumo do pedido
+![resumo_pedido]https://github.com/SoftwareSistems/meu-repositorio/blob/main/resmuo_pedido.PNG
+
+Aprovação do pagamento
+![aprovado]https://github.com/SoftwareSistems/meu-repositorio/blob/main/aprovado.PNG
+
 -
 -
 -
