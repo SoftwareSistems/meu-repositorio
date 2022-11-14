@@ -1,5 +1,5 @@
 # APLICATIVO MÓVEL - VENDAS DE CUPCAKES
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/SoftwareSistems/meu-repositorio/blob/main/license) 
+[![licenca](https://img.shields.io/npm/l/react)](https://github.com/SoftwareSistems/meu-repositorio/blob/main/license) 
 
 # Sobre o projeto
 
@@ -7,6 +7,10 @@ Aplicativo Móvel "Vendas de Cupcakes" é um projeto acadêmico proposto pela di
 Engenharia de Software (Universidade de Franca). O objetivo é desenvolver o aplicativo para maximizar as vendas da loja fisíca. Através do app o usuário será
 capaz de navegar, cadastrar-se, fazer compras, o diferencial fica por conta do lado (administrador) onde é possível adicionar novos produtos, editar preços,
 adicionar descrições e gerenciar todos os pedidos feitos pelo cliente.
+
+# Conceitos aplicados
+- Orientação a objetos
+- Classes
 
 ## Video da solução funcionando
 
@@ -31,10 +35,7 @@ Não possue.
 ![perfil](https://github.com/SoftwareSistems/meu-repositorio/blob/main/perfil.PNG)
 
 #### - Pedidos
-![pedidos](https://github.com/SoftwareSistems/meu-repositorio/blob/main/.PNG)
-
-#### - Perfil
-![perfil](https://github.com/SoftwareSistems/meu-repositorio/blob/main/perfil.PNG)
+![pedidos](https://github.com/SoftwareSistems/meu-repositorio/blob/main/pedidos.PNG)
 
 #### - Seleção de pagamento
 ![pagamento](https://github.com/SoftwareSistems/meu-repositorio/blob/main/foma_pagamento.PNG)
@@ -70,8 +71,7 @@ Não possue.
 ## Back end / Front end
 - Java 100%
 
-# Bibliotecas utilizadas
-
+# Depenências
 - io.github.ParkSangGwon:tedpermission-normal:3.2.3
 - com.github.bumptech.glide:glide:4.12.0
 - com.github.santalu:maskara:1.0.0
@@ -81,11 +81,31 @@ Não possue.
 - com.squareup.retrofit2:converter-gson:2.9.0
 - com.mercadopago.android.px:checkout:4.20.0
 
+## Recurso de banco de dados local
+- SQLite
 
+## Recurso de bando de dados online (Firebase)
+- Authentication
+- Realtimedatabase
+- Storage
 
+## Pré requisitos para acesso ao sistema
+- Fazer cadastro com email e senha
+- Cadastrar forma de pagamento
+- Cadastrar endereço de entrega
 
+## Api
+- Mercado pago
+- Via cep
 
-Caro visitante esta página está em construção, aguarde.....
+## Target Sdk version
+Api 31 android 12(Min Api 24)
+
+# Autor
+Marcos Antonio Garcia
+
+https://www.linkedin.com/in/marcos-a-726010170/
+
 
 
 
