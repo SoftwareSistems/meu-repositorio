@@ -84,7 +84,7 @@ Não possue.
 ## Recurso de banco de dados local
 - SQLite
 
-## Recurso de bando de dados online (Firebase)
+## Recurso de banco de dados online (Firebase)
 - Authentication
 - Realtimedatabase
 - Storage
