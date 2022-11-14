@@ -12,7 +12,7 @@ adicionar descrições e gerenciar todos os pedidos feitos pelo cliente.
 - Orientação a objetos
 - Classes
 
-## Video da solução funcionando
+## Video da solução em funcionamento
 
 https://youtu.be/vq6UCB4Hgzw
 
